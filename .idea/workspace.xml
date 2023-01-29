@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="76594ce3-7837-48cd-b56f-b6bb28648d58" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design_pattern.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/neya/pattern/composite/entity/Menu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/neya/pattern/composite/entity/MenuItem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/neya/pattern/composite/intf/MenuComponent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/neya/pattern/iterator/entity/CafeMenu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/neya/pattern/iterator/entity/DinerMenu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/neya/pattern/iterator/entity/MenuItem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/neya/pattern/iterator/entity/PancakeHouseMenu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/neya/pattern/iterator/impl/DinerMenuIterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/neya/pattern/iterator/impl/PancakeHouseMenuIterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/neya/pattern/iterator/intf/Iterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/neya/pattern/iterator/intf/Menu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/neya/pattern/iterator/service/Waitress.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/neya/pattern/iterator/test/TestWaitress.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2KlXMvHM23TFwtKuuZTZZcwCM6V" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "OverrideImplement.generate.javadoc": "true",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="JUnit.TestWaitress.testPrintMenu2">
+    <configuration name="TestWaitress" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="design_pattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.neya.pattern.iterator.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.neya.pattern.iterator.test" />
+      <option name="MAIN_CLASS_NAME" value="com.neya.pattern.iterator.test.TestWaitress" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestWaitress.testPrintMenu" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="design_pattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.neya.pattern.iterator.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.neya.pattern.iterator.test" />
+      <option name="MAIN_CLASS_NAME" value="com.neya.pattern.iterator.test.TestWaitress" />
+      <option name="METHOD_NAME" value="testPrintMenu" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestWaitress.testPrintMenu2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="design_pattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.neya.pattern.iterator.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.neya.pattern.iterator.test" />
+      <option name="MAIN_CLASS_NAME" value="com.neya.pattern.iterator.test.TestWaitress" />
+      <option name="METHOD_NAME" value="testPrintMenu2" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TestWaitress.testPrintMenu2" />
+        <item itemvalue="JUnit.TestWaitress.testPrintMenu" />
+        <item itemvalue="JUnit.TestWaitress" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="76594ce3-7837-48cd-b56f-b6bb28648d58" name="Changes" comment="" />
+      <created>1674550099465</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1674550099465</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/neya/pattern/iterator/entity/PancakeHouseMenu.java</url>
+          <line>37</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
